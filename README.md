@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GREAT-ABDULLAH
+- 👋 Hi, I’m @GREAT ABDULLAH
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer scince
 - 💞️ I’m looking to collaborate on ...
