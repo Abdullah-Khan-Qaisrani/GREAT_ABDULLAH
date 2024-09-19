@@ -2,7 +2,7 @@ public class Main{
 
 	public static void main(String args[]){
 
-		Artist a1 = new Artist("Hafiz Ammar");
+		Artist a1 = new Artist("Muhammad Abdullah Qaisrani");
 
 		Artwork art1 = new Artwork("Urdu", 2015, "Malik Aalam");
 		Artwork art2 = new Artwork("Urdu", 2015);
